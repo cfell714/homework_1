@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework_1</string>
+    <string name="button_main_next">Get Started</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="textView_main">Welcome to mad libs!</string>
+    <string name="button_submit">Generate!</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="button_goHome">Go home!</string>
+</resources>
